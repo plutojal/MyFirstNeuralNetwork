@@ -1,2 +1,2 @@
 # MyFirstNeuralNetwork
-This is my first impleication of a neural network.
+This is my first implication of a neural network.
